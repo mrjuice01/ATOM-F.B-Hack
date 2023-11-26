@@ -67,7 +67,7 @@ IFORMATIONS:
 1) apt update && apt upgrade
 2) apt install git
 3) git clone https://github.com/mrjuice01/ATOM-F.B-Hack
-4) ATOM-F.B-Hack
+4) cd ATOM-F.B-Hack
 5) python2 axom.py
 ```
 
